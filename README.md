@@ -39,9 +39,6 @@ This application leverages TensorFlow for facial landmark detection within a vid
 
 
 ## Demo
-<video controls>
-  <source src="https://github.com/fathi-hamed/AR-Project/blob/main/DEMO/DEMO - Made with Clipchamp.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+You will find in the DEMO folder a video.mp4 containing a demonstration of the work .
 
 
