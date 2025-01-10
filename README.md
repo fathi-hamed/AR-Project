@@ -36,3 +36,11 @@ This application leverages TensorFlow for facial landmark detection within a vid
 - Integration of a more lightweight face detection model to improve performance, especially on mobile devices.
 - Adding handles to the glasses with three.js to create a more interactive experience.
 - Adding the ability to try on different styles of glasses through a user-friendly interface.
+
+
+## Demo
+<video controls>
+  <source src="https://raw.githubusercontent.com/fathi-hamed/AR-Project/main/DEMO/DEMO - Made with Clipchamp.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
